@@ -17,12 +17,12 @@ weight = 5
 [[education.courses]]
   course = "PhD in Neuroscience"
   institution = "University of Victoria (Victoria, BC)"
-  year = 2019
+  year = 2015-
 
 [[education.courses]]
-  course = "MD"
+  course = "MD (Doctor in Medicine)"
   institution = "Universidad del Valle (Cali, Colombia)"
-  year = 2014
+  year = 2007-2014
  
 +++
 
