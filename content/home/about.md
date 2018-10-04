@@ -2,7 +2,7 @@
 # About/Biography widget.
 widget = "about"
 active = true
-date = 2016-04-20T00:00:00
+date = 
 
 # Order that this section will appear in.
 weight = 5
@@ -10,26 +10,21 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Neurodevelopment",
+    "Synapses and network connectivity",
+    "Neuroregeneration and endogenous repair mechanisms"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Neuroscience"
+  institution = "University of Victoria (Victoria, BC)"
+  year = 2015 - present
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "MD"
+  institution = "Universidad del Valle (Cali, Colombia)"
+  year = 2007-2014
  
 +++
 
