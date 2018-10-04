@@ -38,6 +38,18 @@ weight = 7
   icon_pack = "fas"
   name = "Confocal Microscopy"
   description = "70%"
+  
+[[feature]]
+  icon = "flask"
+  icon_pack = "fas"
+  name = "IHC/ICC"
+  description = "85%"
+
+[[feature]]
+  icon = "chalkboard"
+  icon_pack = "fas"
+  name = "Teaching"
+  description = "75%"
 
 [[feature]]
   icon = "dumbbell"
