@@ -2,7 +2,7 @@
 # About/Biography widget.
 widget = "about"
 active = true
-date = 
+date = 2018
 
 # Order that this section will appear in.
 weight = 5
@@ -30,6 +30,6 @@ weight = 5
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Juan is a _Neuroscience PhD Candidate_ at the University of Victoria. His research in the _Swayne Lab_ looks to understand the role of **Pannexin 1 (Panx1)** during postnatal cortical development, using a combination of _in vitro_ and _in vivo_ models. His research interests include dendritic spine plasticty, synapse and neuronal network formation, and endogenous repair mechanisms. By taking advantage of his confocal microcopy, immnohistochemistry, and immunocytochemistry, Juan often support other projects by acquiring high-resolution images, analyzing morphological metrics (using both manual and semi-automated methods), and providing statistical analysis guidance.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
