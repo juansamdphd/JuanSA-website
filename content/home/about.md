@@ -12,7 +12,7 @@ weight = 5
     "Neurodevelopment",
     "Synapses and network connectivity",
     "Neuroregeneration and endogenous repair mechanisms"
-  
+  ]
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "PhD in Neuroscience"
