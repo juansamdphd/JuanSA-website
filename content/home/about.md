@@ -32,4 +32,4 @@ weight = 5
 
 Juan is a _Neuroscience PhD Candidate_ at the University of Victoria. His research in the _Swayne Lab_ looks to understand the role of **Pannexin 1 (Panx1)** during postnatal cortical development, using a combination of _in vitro_ and _in vivo_ models. His research interests include dendritic spine plasticty, synapse and neuronal network formation, and endogenous repair mechanisms. By taking advantage of his confocal microcopy, immnohistochemistry, and immunocytochemistry, Juan often support other projects by acquiring high-resolution images, analyzing morphological metrics (using both manual and semi-automated methods), and providing statistical analysis guidance.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Juan is passionate about basic science and medicine and hopes to combine both as he learns and collect skills to one day become a neurosurgeon/scientist. 
