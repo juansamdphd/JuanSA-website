@@ -52,12 +52,12 @@ date_format = "January 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "PhD Candidate"
+  company = "Division of Medical Sciences, University of Victoria"
+  company_url = "https://www.uvic.ca/medsci/"
+  location = "Victoria, BC"
+  date_start = "2015-01-01"
+  date_end = ""
+  description = """"""
 
 +++
