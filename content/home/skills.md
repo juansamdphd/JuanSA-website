@@ -34,13 +34,13 @@ weight = 7
   description = "85%"  
   
 [[feature]]
-  icon = "fa-microscope"
+  icon = "microscope"
   icon_pack = "fas"
   name = "Confocal Microscopy"
   description = "70%"
 
 [[feature]]
-  icon = "fa-dumbbell"
+  icon = "dumbbell"
   icon_pack = "fas"
   name = "Bodybuilding"
   description = "85%"
