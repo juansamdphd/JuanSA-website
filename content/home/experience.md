@@ -25,7 +25,7 @@ date_format = "January 2006"
   location = "Cali, Colombia"
   date_start = "2013-09-01"
   date_end = "2014-09-28"
-  description = """Twelve months of supervised hospital work through Surgery, Internal Medicine, Pediatrics, and Obstetrics and Gynecology"""
+  description = """Twelve months of supervised hospital work through Surgery, Internal Medicine, Pediatrics, and Obstetrics and Gynecology
   Responsibilities include:
   
   * Assessing, managing, and following up medical cases
@@ -41,7 +41,8 @@ date_format = "January 2006"
   location = "Cali, Colombia"
   date_start = "2013-02-01"
   date_end = "2013-07-04"
-  description = """One term of supervised basic biomedical sciences research, including graduate-level coursework in biostatistics, scientific integrity, functional neuroanatomy, and cerebral cortex architectonics"""
+  description = """One term of supervised basic biomedical sciences research, including graduate-level coursework in biostatistics, scientific integrity, functional neuroanatomy, and cerebral cortex architectonics
+  
   Responsibilities include:
   
   * Discussing and reviewing new evidence on cerebral cortex cytoarchitectonics
