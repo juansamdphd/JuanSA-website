@@ -51,7 +51,7 @@ enableGitInfo = false
   # AUTHOR SETUP
 
   # Your details.
-  name = "Juan C. sanchez-Arias, MD"
+  name = "Juan C. sanchez-Arias"
   role = "PhD Candidate, University of Victoria"
 
   # Organizations/Affiliations.
@@ -62,7 +62,7 @@ enableGitInfo = false
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "test@example.org"
+  email = "juansa@uvic.ca"
   address = "Building 1 Room 1, Stanford University, California, 90210, USA"
   office_hours = "Monday 10:00 to 13:00 or email for appointment"
   phone = "888 888 88 88"
@@ -99,7 +99,7 @@ enableGitInfo = false
 
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-  color_theme = "default"
+  color_theme = "forest"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
@@ -112,7 +112,7 @@ enableGitInfo = false
   sharing_image = ""
 
   # Twitter username (without @). Used when a vistor shares your site on Twitter.
-  twitter = ""
+  twitter = "JuCamilo"
 
   # Diplay a logo in navigation bar rather than title (optional).
   #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
