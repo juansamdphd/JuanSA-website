@@ -20,7 +20,7 @@ weight = 5
   year = 2019
 
 [[education.courses]]
-  course = "MD (Doctor in Medicine)"
+  course = "MD (Medico y Cirujano)"
   institution = "Universidad del Valle (Cali, Colombia)"
   year = 2014
  
