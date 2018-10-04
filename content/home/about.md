@@ -12,18 +12,17 @@ weight = 5
     "Neurodevelopment",
     "Synapses and network connectivity",
     "Neuroregeneration and endogenous repair mechanisms"
-  ]
-
+  
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "PhD in Neuroscience"
   institution = "University of Victoria (Victoria, BC)"
-  year = 2015 - present
+  year = Current
 
 [[education.courses]]
   course = "MD"
   institution = "Universidad del Valle (Cali, Colombia)"
-  year = 2007-2014
+  year = 2014
  
 +++
 
