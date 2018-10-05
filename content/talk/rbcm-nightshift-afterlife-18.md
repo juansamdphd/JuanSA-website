@@ -16,7 +16,7 @@ abstract = ""
 abstract_short = ""
 
 # Name of event and optional event URL.
-event = "Night Shift: After Life (an event by the Royal BC Museum"
+event = "Night Shift: After Life (an event by the Royal BC Museum)"
 event_url = "https://royalbcmuseum.bc.ca/visit/events/calendar/event/106647/night-shift-after-life"
 
 # Location of event.
