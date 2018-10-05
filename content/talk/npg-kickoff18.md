@@ -12,7 +12,7 @@ time_end = 2018-09-14T09:30:00
 authors = ["Juan C. Sanchez-Arias"]
 
 # Abstract and optional shortened version.
-abstract = "For the 2018-2019 Neuroscience Graduate Program Kick-Off, fellow PhD Candidates and I shared our the latest advances in our research projects. To top it off, we were fortunate to host [Dr. Scott Soderling (Duke)] (http://soderlinglab.cellbio.duke.edu/) as our keynote lecturer."
+abstract = "For the 2018-2019 Neuroscience Graduate Program Kick-Off, fellow PhD Candidates and I shared the latest advances in our research projects. To top it off, we were fortunate to host [Dr. Scott Soderling (Duke)] (http://soderlinglab.cellbio.duke.edu/) as our keynote lecturer."
 abstract_short = ""
 
 # Name of event and optional event URL.
