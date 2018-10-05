@@ -50,7 +50,7 @@ highlight = true
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-[header width = "200"]
+[header]
 image = "talks/kickoff18/ngp-presenters-kickoff18.jpg" 
 caption = "L-to-R: Chad Williams, Juan C. Sanchez-Arias, Scott Soderling, Laura Hanson, Greg Percey"
 
