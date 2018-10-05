@@ -17,7 +17,7 @@ weight = 5
 [[education.courses]]
   course = "PhD in Neuroscience"
   institution = "University of Victoria (Victoria, BC)"
-  year = 2020
+  year = 2019
 
 [[education.courses]]
   course = "MD (Medico y Cirujano)"
