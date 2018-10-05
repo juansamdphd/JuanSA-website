@@ -19,10 +19,7 @@ authors = ["Leigh E. Wicki-Stordeur", "Juan C. Sanchez-Arias", "Jagroop Dhaliwal
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Journal of Neursocience*" 
-
-#You may use *Markdown* for italics etc."
-
+publication = "https://doi.org/10.1523/JNEUROSCI.0436-15.2016"
 publication_short = "In *JNeurosci*"
 
 # Abstract and optional shortened version.
