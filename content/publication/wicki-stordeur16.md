@@ -6,7 +6,7 @@ title = "Pannexin 1 Differentially Affects Neural Precursor Cell Maintenance in 
 date = "2016-01-27"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Leigh E. Wicki-Stordeur", "Juan C. Sanchez-Arias", "Jagroop Dhaliwal", "Esther O. Carmona-Wagner", "Valery I. Shestopalov", "Diane C. Lagace" and "Leigh Anne Swayne"]
+authors = ["Leigh E. Wicki-Stordeur", "Juan C. Sanchez-Arias", "Jagroop Dhaliwal", "Esther O. Carmona-Wagner", "Valery I. Shestopalov", "Diane C. Lagace", "Leigh Anne Swayne"]
 
 # Publication type.
 # Legend:
