@@ -51,7 +51,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-# image = "talks/ngp-kickoff18/ngp-presenters-kickoff18.jpg"
+# image = "talks/kickoff18/ngp-presenters-kickoff18.jpg"
 # caption = "My caption :smile:"
 
 +++
