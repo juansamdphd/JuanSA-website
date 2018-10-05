@@ -31,13 +31,13 @@ weight = 7
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "85%"  
+  description = "90%"  
   
 [[feature]]
   icon = "microscope"
   icon_pack = "fas"
   name = "Confocal Microscopy"
-  description = "70%"
+  description = "80%"
   
 [[feature]]
   icon = "flask"
@@ -49,7 +49,7 @@ weight = 7
   icon = "chalkboard"
   icon_pack = "fas"
   name = "Teaching"
-  description = "75%"
+  description = "80%"
 
 [[feature]]
   icon = "dumbbell"
