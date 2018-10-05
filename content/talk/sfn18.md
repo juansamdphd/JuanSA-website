@@ -16,7 +16,7 @@ abstract = ""
 abstract_short = ""
 
 # Name of event and optional event URL.
-event = "Neuroscience 2018 San Diego"
+event = "Neuroscience 2018 (Poster presentation D13, Session 118)"
 event_url = "https://www.sfn.org/Meetings"
 
 # Location of event.
