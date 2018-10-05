@@ -51,8 +51,8 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-# image = "headers/bubbles-wide.jpg"
-# caption = "My caption :smile:"
+image = "talks/afterlife18/afterlife18.jpg"
+caption = "Night Shift: After Life at the Royal BC Museum"
 
 +++
 
