@@ -17,11 +17,11 @@ weight = 60
 
 Teaching Assistant for the following Neuroanatomy labs for medical students enrolled in the Island Medical Program (UBC/UVic)
 
-# **2018**
+### 2018
 * Year 2 (MEDD422) Neuroanatomy Lab on Limbic System/Dementia
 * Year 1 (MEDD412) Neuroanatomy Lab on Cranial Nerves V & VII and Pain
 
-**2017**
+### 2017
 * Year 2 (MEDD421) Neuroanatomy Lab on Control of Movement and Cerebellum
 * Year 2 (MEDD421) Neuroanatomy Lab on Cerebral Cortex, Functional Areas, and Blood Supply
 * Year 1 (MEDD412) Neuroanatomy Lab on Eye Movements and Brainstem
