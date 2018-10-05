@@ -1,7 +1,7 @@
 +++
 
 title = "Upregulation of inflammatory mediators in the ventricular zone after cortical stroke"
-active = false
+
 # Date first published.
 date = "2017-05-15"
 
