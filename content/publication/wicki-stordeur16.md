@@ -1,3 +1,5 @@
++++
+
 title = "Pannexin 1 Differentially Affects Neural Precursor Cell Maintenance in the Ventricular Zone and Peri-Infarct Cortex"
 
 # Date first published.
@@ -63,3 +65,4 @@ highlight = true
 [header]
 #image = "headers/bubbles-wide.jpg"
 #caption = "My caption 😄"
++++
