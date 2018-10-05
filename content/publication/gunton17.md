@@ -1,6 +1,6 @@
 +++
 
-title = "Pannexin 1 Differentially Affects Neural Precursor Cell Maintenance in the Ventricular Zone and Peri-Infarct Cortex"
+title = "Upregulation of inflammatory mediators in the ventricular zone after cortical stroke"
 
 # Date first published.
 date = "2017-05-15"
