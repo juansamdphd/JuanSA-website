@@ -21,7 +21,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "https://doi.org/10.1523/JNEUROSCI.0436-15.2016"
-publication_short = "In *JNeurosci*"
+publication_short = "In *Journal of Neuroscience*"
 
 # Abstract and optional shortened version.
 abstract = "We demonstrated previously that Pannexin 1 (Panx1), an ion and metabolite channel, promotes the growth and proliferation of ventricular zone (VZ) neural precursor cells (NPCs) in vitro. To investigate its role in vivo, we used floxed Panx1 mice in combination with viruses to delete Panx1 in VZ NPCs and to track numbers of Panx1-null and Panx1-expressing VZ NPCs over time. Two days after virus injection, Panx1-null cells were less abundant than Panx1-expressing cells, suggesting that Panx1 is required for the maintenance of VZ NPCs. We also investigated the effect of Panx1 deletion in VZ NPCs after focal cortical stroke via photothrombosis. Panx1 is essential for maintaining elevated VZ NPC numbers after stroke. In contrast, Panx1-null NPCs were more abundant than Panx1-expressing NPCs in the peri-infarct cortex. Together, these findings suggest that Panx1 plays an important role in NPC maintenance in the VZ niche in the naive and stroke brain and could be a key target for improving NPC survival in the peri-infarct cortex."
