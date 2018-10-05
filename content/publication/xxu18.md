@@ -6,7 +6,7 @@ title = "Probenecid Disrupts a Novel Pannexin 1-Collapsin Response Mediator Prot
 date = "2018-05-11"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Xiaoxue Xu", "Leigh E. Wicki-Stordeur", "Juan C. Sanchez-Arias", "Mei Liu", "Maria S. Weaver", "Catherine S.W. Choi, "Leigh Anne Swayne"]
+authors = ["Xiaoxue Xu", "Leigh E. Wicki-Stordeur", "Juan C. Sanchez-Arias", "Mei Liu", "Maria S. Weaver", "Catherine S.W. Choi", "Leigh Anne Swayne"]
 
 # Publication type.
 # Legend:
