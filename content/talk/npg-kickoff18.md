@@ -12,7 +12,7 @@ time_end = 2018-09-14T09:30:00
 authors = ["Juan C. Sanchez-Arias"]
 
 # Abstract and optional shortened version.
-abstract = "For the 2018-2019 Neuroscience Graduate Program Kick-Off we were fortunate to host [Dr. Scott Soderling (Duke)] (http://soderlinglab.cellbio.duke.edu/) as our keynote speakers, who was joined by 4 students from the NGP program who shared their reserch projects"
+abstract = "For the 2018-2019 Neuroscience Graduate Program Kick-Off we were fortunate to host [Dr. Scott Soderling (Duke)] (http://soderlinglab.cellbio.duke.edu/) as our keynote speakers, who was joined by 4 students from the NGP program who shared their research projects"
 abstract_short = ""
 
 # Name of event and optional event URL.
@@ -51,7 +51,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "talks/kickoff18/ngp-presenters-kickoff18.jpg"
+image = "talks/kickoff18/ngp-presenters-kickoff18.jpg" width = "200"
 caption = "L-to-R: Chad Williams, Juan C. Sanchez-Arias, Scott Soderling, Laura Hanson, Greg Percey"
 
 +++
