@@ -1,5 +1,5 @@
 +++
-title = "After Death Experience: a story of neurotransmitters, oxygen, and sensory integration"
+title = "Near-death experience: a story of a disturbed mind trying to feel"
 date = 2018-01-01T00:00:00  # Schedule page publish date.
 draft = false
 
