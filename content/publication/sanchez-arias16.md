@@ -64,6 +64,6 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-#image = "headers/bubbles-wide.jpg"
-#caption = "My caption 😄"
+image = "http://www.nrronline.org/articles/2016/11/10/images/NeuralRegenRes_2016_11_10_1540_193221_f1.jpg"
+caption = "Cover featured (October 2016 Volume 11 | Issue 10)"
 +++
