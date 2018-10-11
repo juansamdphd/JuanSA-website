@@ -136,7 +136,7 @@ figcaption {
   line-height: 1.25;
   font-size: 1rem;
   margin-bottom: 1.65rem;
-  margin-right: 500px;
+  margin-right: 50rem;
   font-family: '{{ .Get "heading_font" }}', sans-serif;
 }
 
