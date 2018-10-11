@@ -41,7 +41,7 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = "http://www.nrronline.org/temp/NeuralRegenRes11101540-8349082_231130.pdf"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -49,7 +49,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = ""
+url_source = "http://www.nrronline.org/downloadpdf.asp?issn=1673-5374;year=2016;volume=11;issue=10;spage=1540;epage=1544;aulast=Sanchez-Arias;type=2"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
