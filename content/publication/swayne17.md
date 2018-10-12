@@ -64,6 +64,6 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-#image = "headers/bubbles-wide.jpg"
-#caption = "My caption 😄"
+image = "https://www.frontiersin.org/files/Articles/197081/frym-04-00020-HTML-r1/image_m/main.jpg"
+caption = "Young reviewers @ School of the Madeleine (Berkeley, CA)"
 +++
