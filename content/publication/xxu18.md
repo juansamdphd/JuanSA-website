@@ -65,5 +65,5 @@ highlight = true
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
 image = "https://www.frontiersin.org/files/Articles/347040/fncel-12-00124-HTML/image_m/fncel-12-00124-g007.jpg"
-caption = "Probenecid promotes neurite outgrowth by "releasing" Crmp2 from the Panx1/Crmp2 complex"
+caption = "Probenecid promotes neurite outgrowth by 'releasing' Crmp2 from the Panx1/Crmp2 complex"
 +++
