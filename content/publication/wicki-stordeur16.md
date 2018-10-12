@@ -64,6 +64,6 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-#image = "headers/bubbles-wide.jpg"
-#caption = "My caption 😄"
+image = "http://www.jneurosci.org/content/jneuro/36/4/1203/F1.large.jpg?width=800&height=600&carousel=1"
+caption = "Experimental outline for retrovirus-mediated Panx1 deletion in VZ NPCs in naive/sham and stroke mice"
 +++
