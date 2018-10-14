@@ -6,7 +6,7 @@ lastmod = 2018-04-20T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = [Juan C. Sanchez-Arias]
+authors = ["Juan C. Sanchez-Arias"]
 
 tags = ["Academic"]
 summary = "A piece for the BC Regenerative Medicine Initiative April's Newsletter"
