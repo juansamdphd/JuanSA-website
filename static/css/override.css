@@ -664,7 +664,7 @@ article {
 }
 
 .article-banner {
-  width: 1000px;
+  max-width: 760px;
   height: auto;
 }
 
