@@ -12,14 +12,12 @@ time_end = 2018-09-14T09:30:00
 authors = ["Juan C. Sanchez-Arias"]
 
 # Abstract and optional shortened version.
-abstract = "For the 2018-2019 Neuroscience Graduate Program Kick-Off, fellow PhD Candidates and I shared the latest advances in our research projects. To top it off, we were fortunate to host [Dr. Scott Soderling (Duke)] (http://soderlinglab.cellbio.duke.edu/) as our keynote lecturer.
-
-For more on this day check this [press release](https://www.uvic.ca/medsci/home/news/current/2018-10_neuroscience-kick-off.php)"
+abstract = "For the 2018-2019 Neuroscience Graduate Program Kick-Off, fellow PhD Candidates and I shared the latest advances in our research projects. To top it off, we were fortunate to host [Dr. Scott Soderling (Duke)] (http://soderlinglab.cellbio.duke.edu/) as our keynote lecturer."
 abstract_short = ""
 
 # Name of event and optional event URL.
 event = "Neuroscience Graduate Program Kick-Off 2018"
-event_url = ""
+event_url = "https://www.uvic.ca/medsci/home/news/current/2018-10_neuroscience-kick-off.php"
 
 # Location of event.
 location = "Victoria, BC"
