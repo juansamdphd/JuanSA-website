@@ -1,5 +1,5 @@
 +++
-title = "Near-death experiences and consciousness: the mind *in extremis*"
+title = "Near-death experiences and consciousness: the mind <i>in extremis</i>"
 date = 2018-01-01T00:00:00  # Schedule page publish date.
 draft = false
 
