@@ -8,20 +8,16 @@ weight = 5
 
 # List your academic interests.
 [interests]
-  interests = [
-​    "Neurodevelopment",
-​    "Synapses and network connectivity",
-​    "Neuroregeneration and endogenous repair mechanisms"
-  ]
+  interests = ["Neurodevelopment", "Synapses and network connectivity", "Neuroregeneration and endogenous repair mechanisms"]
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "PhD in Neuroscience"
-  institution = "University of Victoria (Victoria, BC)"
+  institution = "University of Victoria (Victoria, BC. Canada)"
   year = 2020
 
 [[education.courses]]
   course = "MD (Medico y Cirujano)"
-  institution = "Universidad del Valle (Cali, Colombia)"
+  institution = "Universidad del Valle (Cali, Valle. Colombia)"
   year = 2014
 
 +++
