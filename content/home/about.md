@@ -22,7 +22,7 @@ weight = 5
 
 +++
 
-# Biography
+# About me
 
 I am a _Neuroscience PhD Candidate_ at the University of Victoria. My research in the Swayne Lab looks to understand the role of Pannexin 1 (Panx1) during **postnatal cortical development**, using a combination of _in vitro_ and _in vivo_ models. My research interests include dendritic spine plasticity, synapse and neuronal network formation, and endogenous repair mechanisms. In addition to this, I play on my expertise on fluorescence confocal microscopy too support other developing projects in the Swayne Lab by acquiring high-resolution images, analyzing morphological metrics (using both manual and semi-automated methods), and providing statistical analysis guidance.
 
