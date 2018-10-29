@@ -5,8 +5,8 @@ draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2018-10-27T20:00:00
-# time_end = 2030-06-01T21:00:00
+time_start = 2018-10-27T21:30:00
+time_end = 2030-06-01T22:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Juan C. Sanchez-Arias"]
@@ -38,7 +38,7 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-url_slides = "slides/example-slides"
+url_slides = "files/NightShift-Afterlife-talk.pptx"
 url_video = ""
 url_code = ""
 
