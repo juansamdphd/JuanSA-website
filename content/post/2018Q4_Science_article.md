@@ -1,6 +1,6 @@
 +++
-title: "Facial nerve regeneration using olfactory stem cells and hydrogels"
-author: ["Juan C. Sanchez-Arias"]
+title =  "Facial nerve regeneration using olfactory stem cells and hydrogels"
+author = ["Juan C. Sanchez-Arias"]
 draft = false
 tags = ["BC Reg Med"]
 summary =  "A regenerative medicine piece for the BC Regenerative Medicine Initiative Quarterly Newsletter"
