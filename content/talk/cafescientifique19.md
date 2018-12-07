@@ -22,7 +22,7 @@ event_url = "https://www.uvic.ca/research/learnabout/home/news/cafe/index.php"
 location = "Hermann's Jazz Club,753 View Street. Victoria, BC."
 
 # Is this a selected talk? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this talk with one or more of your projects.
