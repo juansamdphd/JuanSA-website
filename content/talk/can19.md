@@ -1,6 +1,5 @@
 +++
-title = "Pannexin 1 regulates network ensembles and dendritic spine development in cortical
-neurons"
+title = "Pannexin 1 regulates network ensembles and dendritic spine development in cortical neurons"
 date = 2019-01-01T00:00:00  # Schedule page publish date.
 draft = false
 
