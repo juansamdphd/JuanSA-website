@@ -3,7 +3,7 @@
 title = "Pannexin1 regulates network ensembles and dendritic spine formation in cortical neurons"
 
 # Date first published.
-date = "2019-06-01"
+date = "2019-05-14"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Juan C. Sanchez-Arias", "Mei Liu", "Catherine SW Choi", "Sarah Ebert", "Craig E. Brown", "Leigh Anne Swayne"]
