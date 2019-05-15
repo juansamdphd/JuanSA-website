@@ -6,7 +6,7 @@ title = "Pannexin1 regulates network ensembles and dendritic spine formation in 
 date = "2019-00-00"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Juan C. Sanchez-Arias", "Mei Liu", "Catherine SW Choi", "Sarah Ebert", Craig E. Brown", "Leigh Anne Swayne"]
+authors = ["Juan C. Sanchez-Arias", "Mei Liu", "Catherine SW Choi", "Sarah Ebert", "Craig E. Brown", "Leigh Anne Swayne"]
 
 # Publication type.
 # Legend:
