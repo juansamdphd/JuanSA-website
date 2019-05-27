@@ -28,7 +28,7 @@ abstract = "Dendritic spines are the post-synaptic targets of excitatory synapti
 abstract_short = ""
 
 # Featured image thumbnail (optional)
-image_preview = ""
+image_preview = "/pubs/2019SA_eNeuro.jpg"
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -64,5 +64,5 @@ highlight = true
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
 image = "/pubs/2019SA_eNeuro.jpg"
-# caption = "Sanchez-Arias et al 2019, eNeuro"
+caption = "Sanchez-Arias et al 2019, eNeuro"
 +++
