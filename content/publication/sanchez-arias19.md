@@ -40,7 +40,7 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = "http://www.eneuro.org/content/eneuro/early/2019/05/22/ENEURO.0503-18.2019.full.pdf"
+url_pdf = "https://www.eneuro.org/content/eneuro/6/3/ENEURO.0503-18.2019.full.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -48,7 +48,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = "http://www.eneuro.org/content/early/2019/05/22/ENEURO.0503-18.2019.long"
+url_source = "https://www.eneuro.org/content/6/3/ENEURO.0503-18.2019.long"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
