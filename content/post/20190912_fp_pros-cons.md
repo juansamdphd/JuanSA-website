@@ -17,7 +17,7 @@ caption = ""
 
 +++
 
-With the growth of social media usa within academic circles, excellent discussion threads and resources are quickly piling in the world-wide-web, readily available at our fingertips. In this particular case, [Dr. Joachim Goedhart](http://www.molcyto.nl/Joachim/) goes on a marvelous streak sharing the advantages and disadvantages of the different fluorescent proteins available out there.
+With the growth of social media use within academic circles, excellent discussion threads and resources are quickly piling in the world-wide-web, readily available at our fingertips. In this particular case, [Dr. Joachim Goedhart](http://www.molcyto.nl/Joachim/) goes on a marvelous streak sharing the advantages and disadvantages of the different fluorescent proteins available out there.
 
 Also, don't forget to check [FPbase::The Fluorescent Protein Database](https://www.fpbase.org/).
 
