@@ -5,14 +5,14 @@ draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2019-10-21T16:20:00
+time_start = 2019-10-31T16:20:00
 time_end = 2019-10-30T16:30:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["**Juan C. Sanchez-Arias**"]
 
 # Abstract and optional shortened version.
-abstract = "The brain is a master shape-shifter, capable of adapting and re-shaping as experiences and electrochemical activity mold networks of neurons. This powerful property is known as neuroplasticity. In this 10 min talk, I go over enhanced neuroplasticity waves during development (critical windows), how dendritic spines are the locus of structural and functional plasticity, and lastly, how social interaction are critical for neuroplasticity and learning using examples of birdsong and language acquisition in zebra finches and humans"
+abstract = "The brain is a master shape-shifter, capable of adapting and re-shaping as experiences and electrochemical activity mold networks of neurons. This powerful property is known as neuroplasticity. In this 10 min talk, I discuss about enhanced neuroplasticity waves during development (critical windows), how dendritic spines are the locus of structural and functional plasticity, and lastly, how social interaction are critical for neuroplasticity and learning using examples of birdsong and language acquisition in zebra finches and humans"
 abstract_short = ""
 
 # Name of event and optional event URL.
