@@ -1,5 +1,5 @@
 +++
-title = "Your brain is like playdough on superpowers, so play with it!"
+title = "Your brain is like play-dough on superpowers, so play with it!"
 date = 2019-01-01T00:00:00  # Schedule page publish date.
 draft = false
 
@@ -12,7 +12,7 @@ time_end = 2019-10-30T16:30:00
 authors = ["**Juan C. Sanchez-Arias**"]
 
 # Abstract and optional shortened version.
-abstract = "The brain is a master shape-shifter, capable of adapting and re-shaping as experiences and electrochemical activity mold netwokrs of neurons. This powerful property is known as neuroplasticity. In tjust 10 min, I go over enhanced neuroplasticity waves during development (critical windows), how dendritic spines are the locus of structural and functioal plasticity, and lastly, how social interaction are critical for neuroplasticity and learning using examples of birdsong and langage acquisition in zebra finches and humans"
+abstract = "The brain is a master shape-shifter, capable of adapting and re-shaping as experiences and electrochemical activity mold networks of neurons. This powerful property is known as neuroplasticity. In this 10 min talk, I go over enhanced neuroplasticity waves during development (critical windows), how dendritic spines are the locus of structural and functional plasticity, and lastly, how social interaction are critical for neuroplasticity and learning using examples of birdsong and language acquisition in zebra finches and humans"
 abstract_short = ""
 
 # Name of event and optional event URL.
