@@ -25,7 +25,7 @@ weight = 7
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "25%"
+  description = "40%"
 
 [[feature]]
   icon = "chart-line"
@@ -37,7 +37,7 @@ weight = 7
   icon = "microscope"
   icon_pack = "fas"
   name = "Confocal Microscopy"
-  description = "90%"
+  description = "100%"
 
 [[feature]]
   icon = "flask"
@@ -49,12 +49,12 @@ weight = 7
   icon = "chalkboard"
   icon_pack = "fas"
   name = "Teaching"
-  description = "80%"
+  description = "90%"
 
 [[feature]]
   icon = "dumbbell"
   icon_pack = "fas"
   name = "Bodybuilding"
-  description = "90%"
+  description = "95%"
 
 +++
