@@ -25,7 +25,7 @@ weight = 7
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "40%"
+  description = "60%"
 
 [[feature]]
   icon = "chart-line"
@@ -49,7 +49,7 @@ weight = 7
   icon = "chalkboard"
   icon_pack = "fas"
   name = "Teaching"
-  description = "90%"
+  description = "95%"
 
 [[feature]]
   icon = "dumbbell"
