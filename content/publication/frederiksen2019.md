@@ -20,7 +20,7 @@ authors = ["Simona D. Frederiksen", "Leigh E. Wicki-Stordeur", "Juan C. Sanchez-
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "https://doi.org/10.1038/s41598-019-46144-5"
+publication = "https://doi.org/10.1101/801563"
 publication_short = "In *bioRxiv*"
 
 # Abstract and optional shortened version.
@@ -40,15 +40,15 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = ""
-url_preprint = ""
+url_pdf = "https://www.biorxiv.org/content/10.1101/801563v1.full.pdf"
+url_preprint = "https://www.biorxiv.org/content/10.1101/801563v1.full"
 url_code = ""
 url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = ""
+url_source = "https://www.biorxiv.org/content/10.1101/801563v1.full"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
@@ -63,6 +63,6 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-#image = "http://www.nrronline.org/articles/2016/11/10/images/NeuralRegenRes_2016_11_10_1540_193221_f1.jpg"
-#caption = "Cover featured (October 2016 Volume 11 | Issue 10)"
+image = "https://www.biorxiv.org/content/biorxiv/early/2019/10/11/801563/F1.medium.gif"
+caption = "Frederiksen et al, 2019. bioRxiv."
 +++
