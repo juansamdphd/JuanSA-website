@@ -265,7 +265,7 @@ enableGitInfo = false
      link = "files/JuanSA_CV.pdf"
   
    [[params.social]]
-     icon = "fa-file-user"
+     icon = "file-user"
      icon_pack = "far"
      link = "files/JuanSA_resume.pdf"
   
