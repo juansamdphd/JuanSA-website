@@ -16,7 +16,7 @@ caption = "Source: Know your Meme"
 
 +++
 
-With the current pandemic pushing us out of our wet-lab benches, it is time to take on Bear Grylls advise and adapt to our new norm. I've always been curious about computer science, and I consider myself fairly tech savvy: I have built my own PC-desktops in the past, I've repaired and upgraded my laptop multiple times,and I'm always on the look of new hardware software trends, mainly as I keep transitioning into using [FOSS (Free and Open Source Software)](https://en.wikipedia.org/wiki/Free_and_open-source_software) for most of my applications (upcoming blog post on this!). In other words, "computer stuff" is on my list of hobbies. The following mini guide has two goals:
+With the current pandemic pushing us out of our wet-lab benches, it is time to take on Bear Grylls advise and adapt to our new norm. I've always been curious about computer science, and I consider myself fairly tech savvy: I've built my own PC-desktops in the past, I've repaired and upgraded my laptop multiple times, and I'm always on the look of new hardware software trends, mainly as I keep transitioning into using [FOSS (Free and Open Source Software)](https://en.wikipedia.org/wiki/Free_and_open-source_software) for most of my applications (upcoming post on this!). In other words, "computer stuff" is on my list of hobbies. This mini guide series has two goals:
 
 1. Serve me as a reminder of useful and handy resources to learn or freshen up my computational skills.
 2. Share with others introductory resources that I hope will help them to apply some of these skills in their daily life and jobs.
@@ -33,11 +33,11 @@ If you're a completely newbie to programming and tech, then [this free course](h
 
 ### Computational Thinking for Problem Solving (Coursera)
 
-So you've learned why programming languages are so important and useful for our daily life, and I bet (or hope) there is fire in you instructing you to pick one of the over 250 programming languages available and master it. 
+So you've learned why programming languages are so important and useful for our daily life, and I bet (or hope) there's a fire in you instructing you to pick one of the over 250 programming languages and master it. 
 
 <div style="width:100%;height:0;padding-bottom:43%;position:relative;"><iframe src="https://giphy.com/embed/3ohuAxV0DfcLTxVh6w" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/starwars-star-wars-episode-2-3ohuAxV0DfcLTxVh6w">via GIPHY</a></p>
 
-But before going forward diving into your preferred programming language, why not get a sense of how to think computationally? If you are a scientist, you've been doing something similar for a while now, but with [this course](https://www.coursera.org/learn/computational-thinking-problem-solving#syllabus) you will learn how to apply systematic approaches to problems using a computer.
+But before going forward to fully dive into your preferred programming language, why not get a sense of how to think computationally? If you are a scientist, you've been doing something similar for a while now, but with [this course](https://www.coursera.org/learn/computational-thinking-problem-solving#syllabus) you will learn how to adapt such systematic approaches to solving problems with a computer.
 
 Computational thinking is an important skill and something I wish I had learned formally earlier in my life. I hope this course helps you kicking in this new gear in your brain. If you enjoy this course and its content, then make sure to check [this wonderful book](https://algorithmstoliveby.com/) by Brian Christian and Tom Griffiths, "Algorithms to Live By: The Computer Science of Human Decisions".
 
