@@ -11,10 +11,13 @@ tags = ["Programming", "Career development"]
 summary = "Just a handful of resources to grow some programming skills"
 
 [header]
-image = "https://i.kym-cdn.com/entries/icons/original/000/023/987/overcome.jpg"
-caption = "Source: Know your Meme"
+image = "/posts/hercules_olympus_programming.png"
+caption = "Made with GIMP"
 
 +++
+<p align="center">
+<img src="https://i.kym-cdn.com/entries/icons/original/000/023/987/overcome.jpg"width="360" height="115">
+</p>
 
 With the current pandemic pushing us out of our wet-lab benches, it is time to take on Bear Grylls advise and adapt to our new norm. I've always been curious about computer science, and I consider myself fairly tech savvy: I've built my own PC-desktops in the past, I've repaired and upgraded my laptop multiple times, and I'm always on the look of new hardware software trends, mainly as I keep transitioning into using [FOSS (Free and Open Source Software)](https://en.wikipedia.org/wiki/Free_and_open-source_software) for most of my applications (upcoming post on this!). In other words, "computer stuff" is on my list of hobbies. This mini guide series has two goals:
 
