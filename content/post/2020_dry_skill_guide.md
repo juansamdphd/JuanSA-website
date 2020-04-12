@@ -1,5 +1,5 @@
 +++
-title = "Mini guide to the computational Olympus: Part I"
+title = "Mini guide to the Computational Olympus: Part I"
 
 date = 2020-04-12T00:00:00
 #lastmod = 2018-04-20T00:00:00
@@ -8,7 +8,7 @@ draft = false
 authors = ["Juan C. Sanchez-Arias"]
 
 tags = ["Programming", "Career development"]
-summary = "Just a handful of resources to grow some programming skills"
+summary = "Just a handful of resources to learn some programming skills"
 
 [header]
 image = "/posts/hercules_olympus_programming.png"
@@ -19,12 +19,17 @@ caption = "Made with GIMP"
 <img src="https://i.kym-cdn.com/entries/icons/original/000/023/987/overcome.jpg"width="360" height="115">
 </p>
 
-With the current pandemic pushing us out of our wet-lab benches, it is time to take on Bear Grylls advise and adapt to our new norm. I've always been curious about computer science, and I consider myself fairly tech savvy: I've built my own PC-desktops in the past, I've repaired and upgraded my laptop multiple times, and I'm always on the look of new hardware software trends, mainly as I keep transitioning into using [FOSS (Free and Open Source Software)](https://en.wikipedia.org/wiki/Free_and_open-source_software) for most of my applications (upcoming post on this!). In other words, "computer stuff" is on my list of hobbies. This mini guide series has two goals:
+With the current pandemic pushing us out of our wet-lab benches, it is time to take on Bear Grylls advise and adapt to our new norm. I've always been curious about computer science, and I consider myself fairly tech savvy: I've built my own PC-desktops in the past, I've repaired and upgraded my laptop multiple times, and I'm always on the look of new hardware software trends, mainly as I keep transitioning into using [FOSS (Free and Open Source Software)](https://en.wikipedia.org/wiki/Free_and_open-source_software) for most of my applications (upcoming post on this!). In other words, "computer stuff" is on my list of hobbies. This mini guide series has ~~two~~ three main goals:
 
-1. Serve me as a reminder of useful and handy resources to learn or freshen up my computational skills.
+1. Serve me as a reminder/record of useful and handy resources to learn or freshen up my computational skills.
 2. Share with others introductory resources that I hope will help them to apply some of these skills in their daily life and jobs.
+3. Have fun learning.
 
-This is **NOT** by any means an invitation to ramp up your work (i.e.,  productivity) while we face this uncharted global challenge. It is an invitation to explore along *yours truly* this hobby. Whether you use these new skills and knowledge for your own research or to set-up a retro-gaming machine, I hope you can enjoy this collection of resources, share it other ones, and even contribute to it!
+This is **NOT** by any means an invitation to ramp up your work (i.e.,  productivity) while we face this uncharted global challenge. It is an invitation to explore along *yours truly* this hobby. Whether you use these new skills and knowledge for your own research or to set-up a retro-gaming machine, I hope you can enjoy these series, share it with other ones, and even contribute to it!
+
+To kick off this adventure, here I'm dropping two free courses that get to the very basics of programming and algorithmic thinking. Most of us associate `code` or `programming` with hackers, building websites, or robots. But in reality, `code` is everywhere making our lives easier whether we notice it or not. More importantly, modern [biological research](https://www.wired.com/2017/03/biologists-teaching-code-survive/) relies heavily in `coding` and as we keep pushing the boundaries of knowledge, being able to interpret and create our own `code` is becoming an essential skill. 
+
+**Disclaimer:** Most of the posts in these series will come from the perspective of a neurobiolgist. 
 
 ### Understand the basics of code (Google Digital Garage)
 
