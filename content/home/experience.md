@@ -57,7 +57,7 @@ date_format = "January 2006"
   company_url = "https://www.uvic.ca/medsci/"
   location = "Victoria, BC"
   date_start = "2015-01-01"
-  date_end = ""
+  date_end = "2020-04-29"
   description = """"""
 
 +++
