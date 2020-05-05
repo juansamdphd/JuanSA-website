@@ -13,7 +13,7 @@ title = "Juan C. Sanchez-Arias"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2020"
+copyright = "&copy; 2018-2020"
 
 theme = "academic"
 enableEmoji = true
@@ -52,7 +52,7 @@ enableGitInfo = false
 
   # Your details.
   name = "Juan C. Sanchez-Arias"
-  role = "PhD Candidate, University of Victoria"
+  role = "MD, PhD. Research Associate"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
