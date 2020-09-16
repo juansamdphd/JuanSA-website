@@ -60,4 +60,12 @@ date_format = "January 2006"
   date_end = "2020-04-29"
   description = """"""
 
+[[experience]]
+  title = "Postdoctoral Fellow"
+  company = "Division of Medical Sciences, University of Victoria"
+  company_url = "https://www.uvic.ca/medsci/"
+  location = "Victoria, BC"
+  date_start = "2020-05-01"
+  date_end = ""
+  description = """"""
 +++

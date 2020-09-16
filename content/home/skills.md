@@ -25,7 +25,7 @@ weight = 7
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "60%"
+  description = "75%"
 
 [[feature]]
   icon = "chart-line"
@@ -56,5 +56,12 @@ weight = 7
   icon_pack = "fas"
   name = "Bodybuilding"
   description = "95%"
+
+[[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+  description = "25%"
+
 
 +++
